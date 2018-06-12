@@ -13,7 +13,7 @@ Gauss's trick involves computing the middle term *ad + bc* not by finding the te
 
 ## Motivation
 
-The motivation for recreating this algorithm is to realize the ingenuity of Gauss's trick which led to one of the more efficient multiplication algorithms used today.
+The motivation for recreating this algorithm is to realize the ingenuity of Gauss's trick which reduced the number of necessary multiplication operations in the algorithm from 4 to 3, leading to one of the more efficient multiplication algorithms used today.
 
 ## Acknowledgements
 
